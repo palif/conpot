@@ -1,0 +1,1 @@
+Before running the docker-compose, edit the conpot.cfg file and edit the [hpfriends] section, incase it will be used with the MHN server. 
